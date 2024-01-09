@@ -2,4 +2,4 @@
 
 These are the notes for a new class at Poly.
 
-Updating the main to experiment with merge conflicts.
+Updating these notes from richard branch to create conflict.
